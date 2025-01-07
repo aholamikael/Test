@@ -1,6 +1,6 @@
 import logging
 import azure.functions as func
-from Test import process_pptx_files 
+from test1 import process_pptx_files 
 
 app = func.FunctionApp()
 
